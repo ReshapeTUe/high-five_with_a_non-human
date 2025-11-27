@@ -1,0 +1,12 @@
+pp gender age time image pres freq area 
+28 Female 29 5401.88 Olifant 30 2 large 
+28 Female 29 5416.40 Olifant 30 0 large 
+28 Female 29 5423.34 Olifant 30 0 medium 
+28 Female 29 5438.16 Worm 15 2 small 
+28 Female 29 5452.19 Muis 15 20 small 
+28 Female 29 5462.83 Kat 20 5 medium 
+28 Female 29 5489.66 Specht 25 10 small 
+28 Female 29 5499.98 Bmax 25 5 large 
+28 Female 29 5502.56 Bmax 25 2 large 
+28 Female 29 5516.90 Octopus 20 1 medium 
+28 Female 29 5519.44 Octopus 20 5 medium 

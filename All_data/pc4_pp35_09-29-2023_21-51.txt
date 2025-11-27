@@ -1,0 +1,8 @@
+pp gender age time image pres freq area 
+35 Female 25 15765.42 Muis 10 0 small 
+35 Female 25 15797.01 WallE 25 1 medium 
+35 Female 25 15807.61 WallE 25 1 medium 
+35 Female 25 15812.06 WallE 25 0 medium 
+35 Female 25 15832.05 Bmax 20 0 large 
+35 Female 25 15848.97 Haai 15 1 large 
+35 Female 25 15853.10 Haai 15 0 large 

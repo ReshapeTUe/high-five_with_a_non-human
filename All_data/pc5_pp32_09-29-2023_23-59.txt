@@ -1,0 +1,17 @@
+pp gender age time image pres freq area 
+32 Male 19 7346.97 WallE 25 30 medium 
+32 Male 19 7362.54 WallE 25 2 large 
+32 Male 19 7371.24 WallE 30 2 large 
+32 Male 19 7394.20 Olifant 30 20 large 
+32 Male 19 7398.02 Olifant 30 10 large 
+32 Male 19 7408.72 Worm 10 1 small 
+32 Male 19 7412.42 Worm 10 1 small 
+32 Male 19 7420.51 Muis 10 2 small 
+32 Male 19 7423.95 Muis 10 2 small 
+32 Male 19 7431.73 Kat 20 5 medium 
+32 Male 19 7434.57 Kat 20 5 medium 
+32 Male 19 7443.23 Specht 10 1 small 
+32 Male 19 7444.50 Specht 10 1 small 
+32 Male 19 7449.64 Specht 10 0 small 
+32 Male 19 7452.30 Specht 10 1 small 
+32 Male 19 7456.04 Specht 15 1 small 

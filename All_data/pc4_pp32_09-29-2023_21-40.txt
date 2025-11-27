@@ -1,0 +1,11 @@
+pp gender age time image pres freq area 
+32 Female 29 15077.47 Worm 10 0 small 
+32 Female 29 15105.76 Octopus 30 2 large 
+32 Female 29 15114.49 Pepper 20 5 medium 
+32 Female 29 15123.74 Hooiwagen 10 30 small 
+32 Female 29 15129.84 Haai 30 30 large 
+32 Female 29 15141.04 Muis 10 10 small 
+32 Female 29 15152.95 Kat 20 10 medium 
+32 Female 29 15159.76 Aap 25 20 medium 
+32 Female 29 15171.44 Specht 10 20 medium 
+32 Female 29 15181.76 Olifant 30 20 large 

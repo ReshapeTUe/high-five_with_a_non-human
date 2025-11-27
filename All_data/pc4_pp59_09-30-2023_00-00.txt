@@ -1,0 +1,9 @@
+pp gender age time image pres freq area 
+59 Female 29 1558.75 Aap 20 20 medium 
+59 Female 29 1565.36 Aap 20 5 medium 
+59 Female 29 1567.96 Aap 20 20 medium 
+59 Female 29 1572.56 Aap 25 20 medium 
+59 Female 29 1582.66 Muis 15 30 small 
+59 Female 29 1599.66 Kat 20 2 medium 
+59 Female 29 1615.59 Haai 30 2 large 
+59 Female 29 1625.03 Specht 20 30 small 

@@ -1,0 +1,10 @@
+pp gender age time image pres freq area 
+22 Female 32 12814.87 Pepper 25 5 medium 
+22 Female 32 12829.80 Pepper 30 20 medium 
+22 Female 32 12834.60 Pepper 30 1 medium 
+22 Female 32 12848.23 Worm 10 0 small 
+22 Female 32 12849.98 Worm 10 0 small 
+22 Female 32 12854.49 Worm 15 0 small 
+22 Female 32 12863.37 Mieren 15 10 small 
+22 Female 32 12865.25 Mieren 15 10 small 
+22 Female 32 12877.90 Octopus 20 2 large 

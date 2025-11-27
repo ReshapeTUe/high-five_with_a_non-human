@@ -1,0 +1,6 @@
+pp gender age time image pres freq area 
+6 Female 50 5693.14 Muis 10 5 small 
+6 Female 50 5711.27 WallE 30 5 large 
+6 Female 50 5715.71 WallE 30 30 large 
+6 Female 50 5727.95 Bmax 10 5 large 
+6 Female 50 5734.07 Bmax 20 2 large 

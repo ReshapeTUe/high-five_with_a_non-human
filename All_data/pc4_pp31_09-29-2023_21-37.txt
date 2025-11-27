@@ -1,0 +1,13 @@
+pp gender age time image pres freq area 
+31 Female 30 14924.42 Haai 25 0 large 
+31 Female 30 14944.17 WallE 25 2 medium 
+31 Female 30 14958.73 Olifant 30 0 large 
+31 Female 30 14969.75 Specht 20 20 small 
+31 Female 30 14986.45 Muis 15 2 small 
+31 Female 30 14990.36 Muis 15 10 small 
+31 Female 30 14993.53 Muis 15 5 small 
+31 Female 30 14997.48 Muis 15 10 small 
+31 Female 30 15008.54 Aap 15 2 medium 
+31 Female 30 15018.90 Hooiwagen 10 2 small 
+31 Female 30 15022.99 Hooiwagen 10 2 small 
+31 Female 30 15031.64 Kat 15 2 medium 

@@ -1,0 +1,15 @@
+pp gender age time image pres freq area 
+37 Female 50 16231.02 Bmax 20 0 medium 
+37 Female 50 16241.66 Bmax 20 0 large 
+37 Female 50 16247.22 Bmax 20 1 large 
+37 Female 50 16254.50 Bmax 20 30 large 
+37 Female 50 16260.19 Bmax 25 0 large 
+37 Female 50 16277.84 Muis 10 20 small 
+37 Female 50 16290.78 Specht 10 10 small 
+37 Female 50 16306.77 Aap 25 1 medium 
+37 Female 50 16331.94 Worm 10 2 large 
+37 Female 50 16346.57 Mieren 10 30 small 
+37 Female 50 16350.76 Mieren 10 5 small 
+37 Female 50 16365.19 WallE 30 1 large 
+37 Female 50 16368.43 WallE 30 1 medium 
+37 Female 50 16374.13 WallE 30 2 medium 

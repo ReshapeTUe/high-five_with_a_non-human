@@ -1,0 +1,16 @@
+pp gender age time image pres freq area 
+56 Male 61 792.98 Worm 15 2 small 
+56 Male 61 801.14 Worm 30 2 small 
+56 Male 61 805.93 Worm 30 10 small 
+56 Male 61 812.95 Worm 15 2 small 
+56 Male 61 821.31 Haai 10 1 small 
+56 Male 61 831.03 Kat 20 5 medium 
+56 Male 61 838.80 Olifant 25 5 medium 
+56 Male 61 867.75 Bmax 15 1 small 
+56 Male 61 875.50 Hooiwagen 10 1 small 
+56 Male 61 886.20 Specht 20 5 medium 
+56 Male 61 901.04 Muis 20 2 medium 
+56 Male 61 906.24 Muis 20 2 small 
+56 Male 61 916.95 Aap 20 5 medium 
+56 Male 61 928.69 Mieren 10 1 small 
+56 Male 61 938.07 Pepper 15 1 medium 

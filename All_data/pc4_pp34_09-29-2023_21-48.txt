@@ -1,0 +1,16 @@
+pp gender age time image pres freq area 
+34 Female 22 15535.98 Aap 20 2 medium 
+34 Female 22 15543.35 Aap 20 0 medium 
+34 Female 22 15549.94 Aap 15 0 medium 
+34 Female 22 15555.18 Aap 15 0 medium 
+34 Female 22 15572.49 Olifant 30 0 large 
+34 Female 22 15577.58 Olifant 25 0 large 
+34 Female 22 15590.45 Pepper 20 1 medium 
+34 Female 22 15601.16 Hooiwagen 10 2 small 
+34 Female 22 15613.70 Worm 10 20 small 
+34 Female 22 15619.13 Worm 10 20 small 
+34 Female 22 15627.29 Worm 10 5 small 
+34 Female 22 15631.13 Worm 10 5 small 
+34 Female 22 15634.93 Worm 10 10 small 
+34 Female 22 15644.68 Bmax 15 0 large 
+34 Female 22 15648.32 Bmax 10 0 large 

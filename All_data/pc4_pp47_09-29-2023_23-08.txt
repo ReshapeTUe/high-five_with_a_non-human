@@ -1,0 +1,17 @@
+pp gender age time image pres freq area 
+47 Female 36 20351.34 Olifant 10 0 small 
+47 Female 36 20367.60 Olifant 10 0 small 
+47 Female 36 20387.06 Olifant 30 5 large 
+47 Female 36 20393.38 Olifant 30 2 large 
+47 Female 36 20399.68 Olifant 30 1 large 
+47 Female 36 20408.34 Olifant 30 0 large 
+47 Female 36 20432.98 Hooiwagen 20 30 medium 
+47 Female 36 20438.38 Hooiwagen 15 30 large 
+47 Female 36 20442.46 Hooiwagen 15 2 large 
+47 Female 36 20446.82 Hooiwagen 10 2 large 
+47 Female 36 20453.29 Hooiwagen 10 5 large 
+47 Female 36 20463.62 Muis 10 30 small 
+47 Female 36 20477.12 WallE 20 1 medium 
+47 Female 36 20482.41 WallE 20 0 medium 
+47 Female 36 20487.88 WallE 25 0 medium 
+47 Female 36 20502.16 Bmax 10 0 large 

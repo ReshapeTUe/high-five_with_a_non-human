@@ -1,0 +1,16 @@
+pp gender age time image pres freq area 
+21 Male 33 12647.72 Olifant 30 10 large 
+21 Male 33 12661.41 Olifant 30 1 large 
+21 Male 33 12677.96 Hooiwagen 10 20 small 
+21 Male 33 12681.90 Hooiwagen 10 20 small 
+21 Male 33 12690.66 Muis 10 20 small 
+21 Male 33 12702.49 WallE 30 5 medium 
+21 Male 33 12705.81 WallE 30 1 medium 
+21 Male 33 12708.89 WallE 30 2 medium 
+21 Male 33 12718.63 Bmax 20 1 medium 
+21 Male 33 12727.74 Haai 20 10 large 
+21 Male 33 12731.18 Haai 20 2 large 
+21 Male 33 12734.80 Haai 20 0 large 
+21 Male 33 12739.33 Haai 20 2 large 
+21 Male 33 12748.26 Specht 25 30 small 
+21 Male 33 12758.85 Kat 15 5 medium 

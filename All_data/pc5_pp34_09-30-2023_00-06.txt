@@ -1,0 +1,2 @@
+pp gender age time image pres freq area 
+34 Female 999 8173.59 WallE 10 0 small 

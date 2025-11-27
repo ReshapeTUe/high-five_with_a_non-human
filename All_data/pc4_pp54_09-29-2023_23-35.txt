@@ -1,0 +1,13 @@
+pp gender age time image pres freq area 
+54 Female 28 24.16 Pepper 25 10 medium 
+54 Female 28 26.30 Pepper 25 20 medium 
+54 Female 28 28.70 Pepper 25 30 medium 
+54 Female 28 29.47 Pepper 25 30 medium 
+54 Female 28 31.31 Pepper 25 30 large 
+54 Female 28 35.71 Pepper 15 5 large 
+54 Female 28 40.49 Pepper 15 5 large 
+54 Female 28 53.61 Pepper 25 1 large 
+54 Female 28 68.57 Mieren 10 30 small 
+54 Female 28 78.42 Haai 20 1 large 
+54 Female 28 91.84 Octopus 20 5 medium 
+54 Female 28 101.02 WallE 30 0 large 

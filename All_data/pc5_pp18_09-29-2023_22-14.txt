@@ -1,0 +1,8 @@
+pp gender age time image pres freq area 
+18 Male 28 1052.26 Pepper 30 0 large 
+18 Male 28 1071.19 Aap 30 0 large 
+18 Male 28 1089.69 Worm 10 1 large 
+18 Male 28 1093.65 Worm 10 0 large 
+18 Male 28 1098.11 Worm 10 30 large 
+18 Male 28 1123.71 Octopus 20 2 medium 
+18 Male 28 1128.18 Octopus 20 5 medium 

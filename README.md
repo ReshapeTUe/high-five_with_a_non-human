@@ -6,7 +6,7 @@ Paper link: (paper submitted, not yet published)
 
 
 # Instructions
-## dataset
+## Raw dataset
 Raw collected data are available as txt-files per participant, with filenames "pc#_pp#_date_time.txt", where:
 - pc# corresponds to the computer number,
 - pp# to the participant number.
@@ -56,10 +56,13 @@ pp gender age time image pres freq area
 ...
 ```
 
+## Core dataset
+Most data processing is done on a highly selective subset of the data: `Final_settings.csv` contains only the final cue design (setttngs) per image.
+
 ## data processing and plotting:
 Run matlab code:
-- `First_prep_data.m` to parse raw data and save Matlab Table `Total` in `All_Data.mat`.
-- `highfive_data_processing.m` to perform data analysis and recreate figures.
+- `First_prep_data.m` to parse raw data and save Matlab Table `Total` in `All_Data.mat`. Makes use of raw data in `\All_data\`
+- `highfive_data_processing.m` to perform data analysis and recreate figures. Makes use of `Final_settings.csv`
 
 # Citing this work:
 Please consider citing:

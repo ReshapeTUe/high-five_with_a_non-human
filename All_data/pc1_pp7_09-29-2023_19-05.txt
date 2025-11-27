@@ -1,0 +1,13 @@
+pp gender age time image pres freq area 
+7 Female 31 7015.70 Octopus 15 1 small 
+7 Female 31 7019.91 Octopus 15 1 medium 
+7 Female 31 7025.17 Octopus 15 2 medium 
+7 Female 31 7036.41 Pepper 25 1 large 
+7 Female 31 7039.73 Pepper 25 1 medium 
+7 Female 31 7048.67 Mieren 10 30 small 
+7 Female 31 7057.07 Hooiwagen 10 30 small 
+7 Female 31 7061.25 Hooiwagen 10 5 small 
+7 Female 31 7069.79 Specht 25 30 small 
+7 Female 31 7074.63 Specht 25 20 small 
+7 Female 31 7083.16 Muis 10 5 small 
+7 Female 31 7097.54 Aap 15 5 medium 

@@ -1,0 +1,11 @@
+pp gender age time image pres freq area 
+14 Female 57 8929.85 Pepper 10 0 small 
+14 Female 57 8940.69 Pepper 20 5 large 
+14 Female 57 8947.71 Hooiwagen 20 5 large 
+14 Female 57 8953.31 Hooiwagen 20 5 medium 
+14 Female 57 8964.10 WallE 20 20 medium 
+14 Female 57 8972.89 Mieren 20 1 small 
+14 Female 57 8982.90 Kat 20 5 medium 
+14 Female 57 8995.91 Haai 30 5 large 
+14 Female 57 9001.29 Haai 30 1 large 
+14 Female 57 9014.89 Worm 15 10 small 

@@ -1,0 +1,9 @@
+pp gender age time image pres freq area 
+44 Female 54 21520.70 Muis 30 10 medium 
+44 Female 54 21562.85 Muis 20 10 small 
+44 Female 54 21571.44 Muis 20 5 medium 
+44 Female 54 21585.02 Aap 10 0 large 
+44 Female 54 21597.98 Aap 15 5 large 
+44 Female 54 21616.29 WallE 20 20 large 
+44 Female 54 21622.66 WallE 20 1 large 
+44 Female 54 21634.29 Olifant 30 0 large 

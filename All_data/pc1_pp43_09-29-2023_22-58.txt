@@ -1,0 +1,10 @@
+pp gender age time image pres freq area 
+43 Female 60 21255.32 Haai 10 0 small 
+43 Female 60 21275.54 Haai 15 0 medium 
+43 Female 60 21294.59 Haai 30 30 large 
+43 Female 60 21299.61 Haai 30 30 large 
+43 Female 60 21311.50 Bmax 10 0 large 
+43 Female 60 21357.94 Octopus 10 5 medium 
+43 Female 60 21373.89 Pepper 30 30 large 
+43 Female 60 21401.97 Mieren 10 30 small 
+43 Female 60 21415.05 Hooiwagen 10 30 small 

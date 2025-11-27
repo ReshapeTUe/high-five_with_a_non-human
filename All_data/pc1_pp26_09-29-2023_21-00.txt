@@ -1,0 +1,17 @@
+pp gender age time image pres freq area 
+26 Female 24 13976.66 Olifant 10 0 small 
+26 Female 24 13983.57 Olifant 30 0 large 
+26 Female 24 13990.34 Olifant 30 2 large 
+26 Female 24 13994.77 Olifant 30 0 large 
+26 Female 24 14009.88 Worm 30 2 small 
+26 Female 24 14013.64 Worm 30 2 medium 
+26 Female 24 14017.27 Worm 30 5 medium 
+26 Female 24 14019.65 Worm 15 5 medium 
+26 Female 24 14022.07 Worm 15 2 medium 
+26 Female 24 14028.02 Kat 15 2 medium 
+26 Female 24 14032.94 Kat 15 10 medium 
+26 Female 24 14035.97 Kat 15 1 medium 
+26 Female 24 14039.04 Kat 20 1 medium 
+26 Female 24 14049.85 Haai 20 1 medium 
+26 Female 24 14053.90 Haai 20 1 large 
+26 Female 24 14056.43 Haai 20 0 large 

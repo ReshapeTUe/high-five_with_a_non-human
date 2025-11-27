@@ -1,0 +1,16 @@
+pp gender age time image pres freq area 
+29 Female 30 14984.56 Pepper 10 1 small 
+29 Female 30 14990.75 Pepper 10 1 large 
+29 Female 30 14995.57 Pepper 10 1 medium 
+29 Female 30 14997.91 Pepper 10 10 medium 
+29 Female 30 15003.75 Pepper 20 10 medium 
+29 Female 30 15007.32 Pepper 15 10 medium 
+29 Female 30 15010.66 Pepper 15 5 medium 
+29 Female 30 15025.89 Specht 30 30 small 
+29 Female 30 15040.60 Aap 30 1 large 
+29 Female 30 15054.41 Muis 20 10 medium 
+29 Female 30 15062.47 Muis 20 20 medium 
+29 Female 30 15070.89 Olifant 30 0 large 
+29 Female 30 15079.97 Worm 10 0 small 
+29 Female 30 15088.90 Worm 15 0 small 
+29 Female 30 15100.78 Kat 20 5 medium 

@@ -1,0 +1,9 @@
+pp gender age time image pres freq area 
+13 Female 61 8806.93 Octopus 20 10 large 
+13 Female 61 8823.09 Octopus 20 10 large 
+13 Female 61 8830.84 Olifant 20 10 large 
+13 Female 61 8837.70 Olifant 20 30 large 
+13 Female 61 8841.97 Olifant 20 0 large 
+13 Female 61 8846.71 Olifant 30 0 large 
+13 Female 61 8860.93 Kat 30 10 large 
+13 Female 61 8864.90 Kat 30 10 large 

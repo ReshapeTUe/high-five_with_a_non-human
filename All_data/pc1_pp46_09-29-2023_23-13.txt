@@ -1,0 +1,17 @@
+pp gender age time image pres freq area 
+46 Female 38 22124.05 Aap 10 0 small 
+46 Female 38 22130.17 Aap 30 30 small 
+46 Female 38 22138.35 Aap 25 30 medium 
+46 Female 38 22151.96 Worm 10 0 small 
+46 Female 38 22157.13 Worm 10 0 medium 
+46 Female 38 22169.64 Haai 30 5 large 
+46 Female 38 22176.33 Haai 30 1 large 
+46 Female 38 22180.98 Haai 30 2 large 
+46 Female 38 22190.12 Olifant 30 0 large 
+46 Female 38 22198.23 Olifant 30 20 large 
+46 Female 38 22212.56 Pepper 20 10 medium 
+46 Female 38 22226.78 Specht 15 30 small 
+46 Female 38 22236.43 Muis 15 30 small 
+46 Female 38 22241.63 Muis 15 20 small 
+46 Female 38 22254.20 Hooiwagen 10 20 small 
+46 Female 38 22260.08 Hooiwagen 10 10 small 

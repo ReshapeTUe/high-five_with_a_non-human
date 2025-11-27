@@ -1,0 +1,10 @@
+pp gender age time image pres freq area 
+17 Female 36 9719.31 Specht 15 20 small 
+17 Female 36 9725.03 Specht 25 20 small 
+17 Female 36 9738.43 Olifant 30 0 large 
+17 Female 36 9748.57 Hooiwagen 10 0 small 
+17 Female 36 9759.24 Pepper 25 10 medium 
+17 Female 36 9771.69 Muis 15 10 small 
+17 Female 36 9786.85 Aap 25 2 large 
+17 Female 36 9793.13 Aap 25 2 medium 
+17 Female 36 9806.05 Haai 25 1 large 

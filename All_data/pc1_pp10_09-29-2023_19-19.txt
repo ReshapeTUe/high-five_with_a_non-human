@@ -1,0 +1,11 @@
+pp gender age time image pres freq area 
+10 Female 20 8018.39 Haai 20 0 large 
+10 Female 20 8041.19 Bmax 15 2 medium 
+10 Female 20 8057.49 Octopus 15 10 small 
+10 Female 20 8071.94 Mieren 15 30 small 
+10 Female 20 8094.80 Pepper 20 2 medium 
+10 Female 20 8109.39 Specht 30 30 small 
+10 Female 20 8123.33 Aap 20 2 medium 
+10 Female 20 8136.79 WallE 25 1 medium 
+10 Female 20 8150.53 Muis 15 20 small 
+10 Female 20 8187.78 Olifant 25 1 large 

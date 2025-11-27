@@ -1,0 +1,11 @@
+pp gender age time image pres freq area 
+24 Male 67 14486.44 Olifant 10 0 small 
+24 Male 67 14488.15 Olifant 10 0 small 
+24 Male 67 14506.86 Olifant 20 5 medium 
+24 Male 67 14513.99 Olifant 15 1 medium 
+24 Male 67 14518.82 Olifant 15 1 medium 
+24 Male 67 14546.51 Muis 25 10 small 
+24 Male 67 14568.84 WallE 15 20 large 
+24 Male 67 14581.05 Bmax 15 1 large 
+24 Male 67 14593.54 Haai 25 10 large 
+24 Male 67 14605.52 Specht 15 30 small 

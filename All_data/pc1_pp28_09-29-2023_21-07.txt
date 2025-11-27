@@ -1,0 +1,14 @@
+pp gender age time image pres freq area 
+28 Male 32 14435.56 Muis 10 0 small 
+28 Male 32 14440.52 Muis 20 10 medium 
+28 Male 32 14445.33 Muis 20 5 medium 
+28 Male 32 14451.56 Muis 20 5 small 
+28 Male 32 14457.48 Muis 15 5 medium 
+28 Male 32 14462.87 Olifant 20 5 medium 
+28 Male 32 14465.86 Olifant 20 5 large 
+28 Male 32 14470.25 Olifant 20 2 large 
+28 Male 32 14476.60 Octopus 15 2 large 
+28 Male 32 14480.71 Octopus 10 2 large 
+28 Male 32 14484.27 Octopus 10 10 large 
+28 Male 32 14487.58 Octopus 10 10 medium 
+28 Male 32 14491.90 Octopus 10 5 large 

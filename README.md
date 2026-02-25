@@ -30,7 +30,7 @@ Aap         monkey
 Bmax        Baymax
 Haai        shark
 Hooiwagen   spider
-Kat         Cat
+Kat         cat
 Mieren      ants
 Muis        mouse
 Octopus     octopus

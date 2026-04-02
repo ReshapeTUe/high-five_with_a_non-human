@@ -62,7 +62,7 @@ Most data processing is done on a highly selective subset of the data: `Final_se
 ## data processing and plotting:
 Run matlab code:
 - `First_prep_data.m` to parse raw data and save Matlab Table `Total` in `All_Data.mat`. Makes use of raw data in `\All_data\`
-- `highfive_data_processing.m` to perform data analysis and recreate figures. Makes use of `Final_settings.csv`
+- `highfive_data_processing.m` to perform data analysis and recreate figures. Makes use of `Final_settings.csv` (and helper function `Latex_table_sideways.m`)
 
 # Citing this work:
 Please consider citing:

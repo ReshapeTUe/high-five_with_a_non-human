@@ -1,8 +1,8 @@
-# Imagining a high-five with a non-human: exploring soft haptic feedback at a science festival
+# Shared expectations of soft haptic feedback through imagined high-fives with robots and non-human animals at a science festival
 
 (Anonymized) data and data processing and plotting code for the associated paper.
 
-Paper link: (paper submitted, not yet published)
+Link to journal paper: van Laake, L.C., van Beek, F.E. & Kuling, I.A. Shared expectations of soft haptic feedback through imagined high-fives with robots and non-human animals at a science festival. Sci Rep (2026). https://doi.org/10.1038/s41598-026-47420-x
 
 
 # Instructions
@@ -67,4 +67,4 @@ Run matlab code:
 # Citing this work:
 Please consider citing:
 
-(paper submitted, not yet published)
+van Laake, L.C., van Beek, F.E. & Kuling, I.A. Shared expectations of soft haptic feedback through imagined high-fives with robots and non-human animals at a science festival. Sci Rep (2026). https://doi.org/10.1038/s41598-026-47420-x
